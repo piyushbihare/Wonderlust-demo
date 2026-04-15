@@ -92,6 +92,6 @@ It also includes an **admin panel** for managing packages, bookings, and custome
 ## 🙌 Author
 
 **Piyush Bihare**  
-Final Year BSc IT Student | Full Stack Developer  
+Junior Full Stack Developer  
 
 ---
